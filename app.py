@@ -28,7 +28,7 @@ temp=data['main']['temp']
 humidity=data['main']['humidity']
 
 print(f" Name of the City: {city}")
-print(f"Temperature: {temp} °C")
+print(f"Temperature: {temp} °f")
 print(f"Humidity: {humidity} %")
 print(f"Condition: {weather}")
 
