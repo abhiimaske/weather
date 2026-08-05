@@ -13,6 +13,7 @@ api_id=os.getenv("open_weather_api_key")
 
 
 
+
 user_input=input("enter city name :")
 
 weather_data=requests.get(
