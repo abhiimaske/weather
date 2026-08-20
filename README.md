@@ -14,6 +14,7 @@ This project was developed as **Task 1** for the **CodeTech Python Programming I
 - Requests library
 - Matplotlib
 
+
 ---
 
 ## 🔗 API Used
